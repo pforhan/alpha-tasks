@@ -1,3 +1,5 @@
+TODO: purge all the pwd stuff and write a new readme
+
 # android-pwdgen
 Minimalistic password generator app. Find in the [play store](https://play.google.com/store/apps/details?id=alphainterplanetary.passwordgen).
 
