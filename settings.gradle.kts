@@ -19,5 +19,5 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "Password Gen"
+rootProject.name = "Alpha's tasks"
 include(":app")

@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-  namespace = "alphainterplanetary.passwordgen"
+  namespace = "alphainterplanetary.tasks"
   compileSdk = 34
 
   defaultConfig {
-    applicationId = "alphainterplanetary.passwordgen"
+    applicationId = "alphainterplanetary.tasks"
     minSdk = 26
     targetSdk = 35
     versionCode = 1

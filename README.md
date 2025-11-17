@@ -1,10 +1,20 @@
-TODO: purge all the pwd stuff and write a new readme
-
-# android-pwdgen
-Minimalistic password generator app. Find in the [play store](https://play.google.com/store/apps/details?id=alphainterplanetary.passwordgen).
+# Alpha's Tasks
+Minimalistic Task and Todo app. Find in the play store (link TODO)
 
 <img src="app/src/main/res/mipmap-xxhdpi/appicon.jpg" width=25% height=25% alt="App icon">
 
-A simple password creator. No local storage, no network access. Uses the Android keystore to securely save recent entries.
+Simple tasks and todo. All on your device -- no network access.
 
-<img src="assets/pwdgen-empty.png" width=40% height=40% alt="Empty UI"> <img src="assets/pwdgen-full.png" width=40% height=40% alt="UI with some saved passwords">
+## Features
+
+* Simple list-based UI with a focus on tasks for today and not-today. 
+* Postpone any of today's tasks by swiping them off screen
+* Optional task attributes:
+  * Opt in or out of play store back up
+  * Tasks can have a date when they start showing
+  * Tasks can be repeatable
+* Create calendar entries in your calendar
+* Copy one or more tasks to another device via QR code
+
+## Screenshots
+TODO
